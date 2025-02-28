@@ -12,6 +12,7 @@ export default{
     #main-banner{
         background-position: 0 -250px;
         background-size: cover;
+        background-position: center;
         height: 500px;
         display: flex;
         align-items: center;
