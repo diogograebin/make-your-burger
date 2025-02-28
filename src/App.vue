@@ -26,7 +26,7 @@ export default{
 
 </script>
 
-<style>
+<style> 
   *{
     font-family: Helvetica;
     padding: 0;
